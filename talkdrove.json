@@ -1,7 +1,7 @@
 {
-  "bot-name": "LUCKY-XD",
+  "bot-name": "ALIEN_CULE BOT",
   "description": "ᴊᴀᴠᴀsᴄʀɪᴘᴛ ᴡʜᴀᴛsᴀᴘᴘ ʙᴏᴛ ᴄʀᴇᴀᴛᴇᴅ ʙʏ Lucky 218",
-  "logo": "https://files.catbox.moe/4itzeu.jpg",
+  "logo": "https://files.catbox.moe/t0cu2c.jpg",
   "keywords": ["bot"],
   "documentation-link": "https://new-session-lfgw.onrender.com/",
     "owner-verification":"malvink003@gmail.com",
@@ -15,7 +15,7 @@
       "BOT_NAME": {
         "description": "write here your bot name.",
         "required": true,
-        "value": "LUCKY-XD"      
+        "value": "ALIEN_CULE BOT"      
     },  
     "MODE": {
       "description": "Set private/public/inbox/groups",
@@ -32,12 +32,12 @@
     "OWNER_NAME": {
       "description": "Put Owner Name Here",
       "required": true,
-      "value": "LUCKY 218"
+      "value": "ALIEN_CULE"
     },
     "OWNER_NUMBER": {
       "description": "Put only one Owner Number Here",
       "required": true,
-      "value": "256789966218"
+      "value": "2348100236360"
     },
     
     "PRESENCE": {
