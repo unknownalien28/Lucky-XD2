@@ -33,7 +33,7 @@ malvin({
             }).join("");
 
         const msg = `
-╭──❖ 「 *${toTinyCap("lucky xd status")}* 」 ❖─
+╭──❖ 「 *${toTinyCap("alien_cule status")}* 」 ❖─
 │
 │ 👤 ʜɪ: *${pushname}*
 │ 🕓 ᴛɪᴍᴇ: *${currentTime}*
@@ -44,7 +44,7 @@ malvin({
 │
 ╰─────────❖
 
-✅ *Lucky is alive & operational!*
+✅ *Alien is alive & operational!*
 🚀 *System: Stable & running smooth!*
 ✨ *Thank you for checking in!*
         `.trim();
@@ -57,8 +57,8 @@ malvin({
                 forwardingScore: 999,
                 isForwarded: true,
                 forwardedNewsletterMessageInfo: {
-                    newsletterJid: '120363420656466131@newsletter',
-                    newsletterName: 'LUCKY XD',
+                    newsletterJid: '0029Vb5t5EaEwEjnvkk6Yb1Z@newsletter',
+                    newsletterName: 'FC BARCELONA AFRICA',
                     serverMessageId: 143
                 }
             }
